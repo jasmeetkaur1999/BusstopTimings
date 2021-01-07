@@ -1,0 +1,26 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+};
+
+div {
+  background-color: blue;
+  color: palevioletred;
+}
+
+.button {
+  margin-left: 30px;
+  padding: 6px;
+  border-radius: 5px 10px;
+  background-color: cornflowerblue;
+  border: 2px solid black;
+  font-weight: bold;
+}
+
+#name {
+  width: 300px;
+  height: 20px;
+  margin: 20px 15px;
+  border: 2px solid black;
+}
